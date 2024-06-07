@@ -18,11 +18,11 @@
 ### Languages Sometimes Use
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-darkred?style=square)
-![Python](https://img.shields.io/badge/Python-blue?style=square)
-![8051 Assembly](https://img.shields.io/badge/8051_Assembly-orange?style=square)  
+![Python](https://img.shields.io/badge/Python-blue?style=square)  
 
 ### Languages Once Used Before
 
+![8051 Assembly](https://img.shields.io/badge/8051_Assembly-orange?style=square)
 ![Visual Basic 6.0](https://img.shields.io/badge/Visual_Basic_6.0-3EA7DF?style=square)
 ![Visual Basic .NET](https://img.shields.io/badge/Visual_Basic_.NET-purple?style=square)  
 
