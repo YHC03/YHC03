@@ -17,6 +17,7 @@
 
 ### Languages Sometimes Use
 
+![Verilog](https://img.shields.io/badge/Verilog-cyan?style=square)
 ![MATLAB](https://img.shields.io/badge/MATLAB-darkred?style=square)
 ![Python](https://img.shields.io/badge/Python-blue?style=square)  
 
