@@ -25,7 +25,7 @@
 
 ---
 <!-- Most Used Languages -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YHC03&layout=compact)
+![Most Used Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=YHC03&layout=compact)
 
 
 <p align='center'>
